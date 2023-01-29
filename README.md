@@ -1,4 +1,4 @@
-## Hi there🦕
+## Hi there
 
 Today, i'm **Mori**, a french **developper** living near Lyon, in the process of qualifying training.
 
